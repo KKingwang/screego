@@ -3,8 +3,8 @@ import {Badge, IconButton, Paper, Theme, Tooltip, Typography} from '@mui/materia
 import CancelPresentationIcon from '@mui/icons-material/CancelPresentation';
 import PresentToAllIcon from '@mui/icons-material/PresentToAll';
 import FullScreenIcon from '@mui/icons-material/Fullscreen';
-import VolumeUpIcon from '@material-ui/icons/VolumeUp';
-import VolumeMuteIcon from '@material-ui/icons/VolumeMute';
+import VolumeUpIcon from '@mui/icons-material/VolumeUp';
+import VolumeMuteIcon from '@mui/icons-material/VolumeMute';
 import PeopleIcon from '@mui/icons-material/People';
 import SettingsIcon from '@mui/icons-material/Settings';
 import {useHotkeys} from 'react-hotkeys-hook';
